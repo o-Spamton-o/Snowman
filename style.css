@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+
+#myCanvas {
+  border: 2px solid black;
+}
+#cabin-img {
+  display: none;
+}
+#cloud-img {
+  display: none;
+}
+#cloud-img:hover {
+  cursor: pointer;
+}
